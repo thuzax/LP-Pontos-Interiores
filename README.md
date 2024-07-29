@@ -40,7 +40,7 @@ Vá em "Arquivo" e selecione a opção "Abrir notebook". Em seguida, no menu a e
 
 ## Autores
 
-Arthur Henrique Sousa Cruz ([thuzax](https://github.com/thuzax), [ver currículo lattes](http://lattes.cnpq.br/7792617711548023))
+Arthur Henrique Sousa Cruz ([ver currículo lattes](http://lattes.cnpq.br/7792617711548023)) $-$ Github: [thuzax](https://github.com/thuzax)
 
 
 Walison Adrian de Oliveira ([ver currículo Lattes](http://lattes.cnpq.br/5950090124404335))
