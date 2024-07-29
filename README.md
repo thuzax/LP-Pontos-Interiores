@@ -8,7 +8,7 @@ Além da implementação é apresentado um conjunto de exemplos e, para casos co
 
 ## Licensa de uso
 
-Este projeto foi desenvolvido sob a licença MIT. A licença é descrita [neste arquivo](LICENSE)
+Este projeto foi desenvolvido sob a licença MIT. A licença é descrita [neste arquivo](LICENSE).
 
 ## Requisitos
 
